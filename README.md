@@ -1,4 +1,4 @@
-## Hello there, I'm Wesley a Full Stack developer and Indie Game Dev during weekends!
+## Hello there, I'm Wesley a Full-stack Web Developer and Indie Game Dev during weekends!
 
  ### Technologies I'm working with:
 <div align="center">
